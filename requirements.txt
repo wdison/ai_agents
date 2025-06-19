@@ -1,0 +1,8 @@
+google-genai
+fastapi
+pydantic
+langchain-google-genai
+logging
+mcp
+mcp[cli]
+json
