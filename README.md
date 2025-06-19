@@ -14,13 +14,13 @@ echo "Ativando o ambiente virtual com '.\.venv\Scripts\Activate.ps1'"
 .\.venv\Scripts\Activate.ps1
 ```
 
-### Instalando bibliotecas
+### Listando as bibliotecas
 ```powershell
 echo "Listando as bibliotecas padrões inicias com 'pip list'"
 pip list
 ```
 
-### Instalando bibliotecas do projeto
+### Listando as bibliotecas do projeto/requirements
 ```powershell
 echo "Listando as bibliotecas que serão instaladas com 'cat requirements.txt'"
 cat requirements.txt
